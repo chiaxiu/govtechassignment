@@ -1,6 +1,6 @@
 # Tic-Tac-Toe using React
 
-![image](https://github.com/chiaxiu/govtechassignment/assets/146698230/d0289cf4-1c4e-4b8f-a66e-01edf2856858)
+![image](https://github.com/chiaxiu/govtechassignment/assets/146698230/ed63614c-96f9-4d6b-bf75-6f31a0edca44)
 
 ## Instructions
 Download the files provided and run the web app on your local host ("http://localhost:3000/"). 
