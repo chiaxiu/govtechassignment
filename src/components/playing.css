@@ -1,0 +1,17 @@
+.playing {
+    display: flex;
+    flex-direction: row;
+    align-items: row;
+    justify-content: space-evenly;
+    width: 20rem;
+    font-size: 1.5em;
+    background-color: white;
+    margin: 3rem auto;
+    box-shadow: 0px 0px 8px #888;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
+
+.notplaying {
+    color: transparent;
+}
